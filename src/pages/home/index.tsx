@@ -1,10 +1,11 @@
 import React from "react";
+import Base from "@/components/base";
 
 const Home: React.FC = () => {
   return (
-    <div>
+    <Base>
       <h1 className="text-green-primary-100">Home</h1>
-    </div>
+    </Base>
   );
 };
 export default Home;

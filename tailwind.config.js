@@ -28,7 +28,7 @@ export const theme = {
 
       //-- Blue Colors --//
       "blue-primary-light": "#4036B4",
-      "blue-primary-100": "#2E3494",
+      "blue-primary-100": "#223454",
       "blue-primary-90": "#43499F",
       "blue-primary-70": "#6D71B5",
       "blue-primary-40": "#ABAED4",
